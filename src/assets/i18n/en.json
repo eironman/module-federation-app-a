@@ -1,0 +1,7 @@
+{
+  "app-a": {
+    "feature-a": "Application A Feature A",
+    "feature-b": "Application A Feature B",
+    "model": "Model"
+  }
+}
